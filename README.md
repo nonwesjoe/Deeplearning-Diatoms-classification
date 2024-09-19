@@ -2,7 +2,7 @@
 - dataset: download from https://www.kaggle.com/datasets/siyuepu/diatom-datasets/data
 - detail: 1042 species of diatoms including 30,000 + image in Electron microscopy.
 - each specie in there folder named after them (1042 folders)
-- tensorflow 2
+- tensorflow 2---train on kaggle GPU P100
 # model architecture
 - totally ResNet34 model with input shape (224,224,3)
 # the accuary
