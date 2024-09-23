@@ -10,5 +10,11 @@
 -  test in 5 groups of random 100 images,the accuracy 88%,88&,87%,91%,89%.
 # sample picture
 
-- ![sample1](sample.jpg)
+- ![sample1](sample1.jpg)
 - ![sample2](sample2.jpg)
+
+# feature map output in conv2d_6 layer:
+- original input image
+- ![input image]()
+- feature map output in conv2d_6:
+- ![feature map]()
