@@ -17,4 +17,4 @@
 - original input image
 - ![inputimage](input.jpg)
 - feature map output in conv2d_6:
-- ![featuremap](output.png)
+- ![featuremap](output.jpg)
