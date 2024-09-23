@@ -15,6 +15,6 @@
 
 # feature map output in conv2d_6 layer:
 - original input image
-- ![input image](input -Achnanthidium delmontii_2.jpg)
+- ![inputimage](input-Achnanthidiumdelmontii_2.jpg)
 - feature map output in conv2d_6:
-- ![feature map]()
+- ![featuremap](output-of-conv2d-6-featuremap1.png)
