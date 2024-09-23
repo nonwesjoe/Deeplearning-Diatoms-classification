@@ -7,7 +7,7 @@
 - totally ResNet34 model with input shape (224,224,3)
 # the accuary
 - in test dataset 88%.
--  test in 5 groups of random 100 images,the accuracy 88%,88&,87%,91%,89%.
+-  test in 5 groups of random 100 images,the accuracy 88%,88%,87%,91%,89%.
 # sample picture
 
 - ![sample1](sample1.jpg)
